@@ -1,6 +1,13 @@
 ## Hola, soy Fede 👋
-[Python] [SQL] [PowerBI]
-[Excel] [Access] [Office]
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Access](https://img.shields.io/badge/Access-A4373A?logo=microsoft-access&logoColor=white)
+![Office](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoftoffice&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?logo=microsoft-dynamics-365&logoColor=white)
+
 
 
 Italo-argentino viviendo en Barcelona, con más de 20 años de experiencia en consultoría y gestión dentro del ámbito bancario.
