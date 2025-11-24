@@ -9,6 +9,7 @@ Ahora estoy en plena etapa de reinvención profesional, fortaleciendo mi perfil 
 Me apasiona transformar información en claridad, ordenar procesos, y convertir quilombos en soluciones prácticas y humanas.
 
 Busco colaborar con equipos y organizaciones que valoren el impacto positivo, la ética y la mejora continua. Siempre listo para sumar, aprender y aportar mi experiencia con una mirada madura, técnica y orientada a resultados.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
